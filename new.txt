@@ -1,2 +1,7 @@
 hello GitHub
+<<<<<<< HEAD
 this is to check for merge conflicts
+=======
+this line is to check whether the new branch feature is working
+>>>>>>> newbranch
+this is to resolve conflicts
