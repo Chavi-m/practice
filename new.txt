@@ -1,1 +1,2 @@
-hello github
+hello GitHub
+this is to check for merge conflicts
