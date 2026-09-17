@@ -1,1 +1,2 @@
-hello github
+hello GitHub
+this line is to check whether the new branch feature is working
